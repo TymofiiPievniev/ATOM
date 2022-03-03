@@ -46,8 +46,8 @@
 
  <entry>
     <title>Tutorial de ATOM</title>
-    <link href="http://ejemplo.org/2020/12/13/atom03"/>
-    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <link href="https://github.com/TymofiiPievniev/ATOM/blob/main/Act2-RA3%20-%20ATOM.pdf"/>
+    <id>https://github.com/TymofiiPievniev/ATOM/blob/main/Act2-RA3%20-%20ATOM.pdf</id>
     <updated>2022-02-24T17:00:00Z</updated>
     <author>
         <name>Tymofii Pievniev</name>
@@ -64,8 +64,8 @@
 
  <entry>
     <title>Nuevo video de Surf Skate</title>
-    <link href="http://ejemplo.org/2020/12/13/atom03"/>
-    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <link href="https://drive.google.com/file/d/1WwG1tD2o7VtvTW6jsgAcJCfz6E3PgwOX/view?usp=sharing"/>
+    <id>https://drive.google.com/file/d/1WwG1tD2o7VtvTW6jsgAcJCfz6E3PgwOX/view?usp=sharing</id>
     <updated>2022-02-24T17:00:00Z</updated>
     <author>
         <name>Tymofii Pievniev</name>
