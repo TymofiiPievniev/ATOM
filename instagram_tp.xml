@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xml:lang="es"
+    xml:base="https://www.instagram.com/onexplosive/">
+    
+ <title>Bienvenidos a mi Instagram (ATOM)</title>
+ <link href="http://ejemplo.org/"/>
+ <updated>2022-02-24T17:00:00Z</updated>
+ <author>
+    <name>Tymofii Pievniev</name>
+    <email>a21pipity@iesgrancapitan.org</email>
+ </author>
+ <id>https://www.instagram.com/onexplosive/</id>
+ <category term="Noticias"/>
+ <rights type="html">Tymofii Pievniev - Todos los derechos reservados</rights>
+
+ <entry>
+    <title>Now I am a skater</title>
+    <link href="https://www.instagram.com/p/CZXX6gyoUAp/?utm_source=ig_web_copy_link"/>
+    <id>https://www.instagram.com/p/CZXX6gyoUAp/?utm_source=ig_web_copy_link</id>
+    <updated>2022-02-24T17:00:00Z</updated>
+    <author>
+        <name>Tymofii Pievniev</name>
+        <email>a21pipity@iesgrancapitan.org</email>
+     </author>
+    <summary>Haciendo Surf Skate en el parque nuevo del Cañero</summary>
+ </entry>
+
+ <entry>
+    <title>Paddlesurf</title>
+    <link href="https://www.instagram.com/p/CSB_mhfofho/?utm_source=ig_web_copy_link"/>
+    <id>https://www.instagram.com/p/CSB_mhfofho/?utm_source=ig_web_copy_link</id>
+    <updated>2022-02-24T17:00:00Z</updated>
+    <author>
+        <name>Tymofii Pievniev</name>
+        <email>a21pipity@iesgrancapitan.org</email>
+     </author>
+    <summary>Os recomiendo el paddlesurf, pero no pescar</summary>
+    <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <h1>Paddlesurf</h1>
+            <a href="https://www.instagram.com/p/CSB_mhfofho/?utm_source=ig_web_copy_link" target="_blank">Pincha aquí</a>
+        </div>
+    </content>
+ </entry>
+
+ <entry>
+    <title>Título de la entrada</title>
+    <link href="http://ejemplo.org/2020/12/13/atom03"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2022-02-24T17:00:00Z</updated>
+    <author>
+        <name>Tymofii Pievniev</name>
+        <email>a21pipity@iesgrancapitan.org</email>
+     </author>
+    <summary>Algún texto resumen.</summary>
+    <link rel="enclosure"
+        xml:lang="es-es"
+        title="Actividad - ATOM"
+        type="application/pdf"
+        hreflang="es-es"
+        href="https://github.com/TymofiiPievniev/ATOM/blob/main/Act2-RA3%20-%20ATOM.pdf" />
+ </entry>
+
+ <entry>
+    <title>Título de la entrada</title>
+    <link href="http://ejemplo.org/2020/12/13/atom03"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2022-02-24T17:00:00Z</updated>
+    <author>
+        <name>Tymofii Pievniev</name>
+        <email>a21pipity@iesgrancapitan.org</email>
+     </author>
+    <summary>Algún texto resumen.</summary>
+    <link rel="enclosure"
+        type="video/mp4"
+        title="Video1"
+        href="https://drive.google.com/file/d/1WwG1tD2o7VtvTW6jsgAcJCfz6E3PgwOX/view?usp=sharing"
+        length="127556438" />
+ </entry>
+</feed>
