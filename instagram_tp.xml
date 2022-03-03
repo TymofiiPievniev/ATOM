@@ -45,7 +45,7 @@
  </entry>
 
  <entry>
-    <title>Título de la entrada</title>
+    <title>Tutorial de ATOM</title>
     <link href="http://ejemplo.org/2020/12/13/atom03"/>
     <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
     <updated>2022-02-24T17:00:00Z</updated>
@@ -53,7 +53,7 @@
         <name>Tymofii Pievniev</name>
         <email>a21pipity@iesgrancapitan.org</email>
      </author>
-    <summary>Algún texto resumen.</summary>
+    <summary>Aquí tenéis el PDF con tutorial de ATOM</summary>
     <link rel="enclosure"
         xml:lang="es-es"
         title="Actividad - ATOM"
@@ -63,7 +63,7 @@
  </entry>
 
  <entry>
-    <title>Título de la entrada</title>
+    <title>Nuevo video de Surf Skate</title>
     <link href="http://ejemplo.org/2020/12/13/atom03"/>
     <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
     <updated>2022-02-24T17:00:00Z</updated>
@@ -71,7 +71,7 @@
         <name>Tymofii Pievniev</name>
         <email>a21pipity@iesgrancapitan.org</email>
      </author>
-    <summary>Algún texto resumen.</summary>
+    <summary>Avanzando poco a poco</summary>
     <link rel="enclosure"
         type="video/mp4"
         title="Video1"
